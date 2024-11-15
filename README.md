@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @samsandhu18
-
+- 👋 Hi, I’m Sam
